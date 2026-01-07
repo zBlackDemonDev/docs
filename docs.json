@@ -12,15 +12,8 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
+        "pages": [
+          "index",
           {
             "group": "Customization",
             "pages": [
